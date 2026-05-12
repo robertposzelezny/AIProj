@@ -105,3 +105,25 @@ InitTestScene*.unity*
 
 # Auto-generated scenes by play mode tests
 /[Aa]ssets/[Ii]nit[Tt]est[Ss]cene*.unity*
+
+# --- Local tooling & IDE (not game source) ---
+# Cursor project data (skills, MCP local config, etc.)
+.cursor/
+
+# Visual Studio Code — personal workspace settings
+.vscode/
+
+# JetBrains Rider / IntelliJ
+.idea/
+
+# Unity crash / editor recovery dumps (safe to delete locally)
+/[Aa]ssets/_Recovery/
+
+# OS junk
+.DS_Store
+Thumbs.db
+Desktop.ini
+*~
+
+# Visual Studio solution (Unity 6+ may emit .slnx alongside generated .sln)
+*.slnx

@@ -130,3 +130,4 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: Assembly-CSharp::TeleportOnCollision
   teleportDestination: {fileID: 0}
+  loadNextSceneIfNoDestination: 1
